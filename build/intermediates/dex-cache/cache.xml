@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\ed4555a6f9b56e7d469f4038c96a50758d383598\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_767271ec9888cd5b021835fe23fdddaf5646f160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_9f4ebed6ff8c2b6d9d51638cf8a452a2145cc690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\0882223b80a5bbc406bca188853662ab91f8dc29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90d62a568ea3a8180e345430f7350d2a5dbdd27e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_2127576471c5288fd184dce82d589697b880b558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\3e65d70776bd689755a925ef0914b23ef0cd019b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f444fcb5c2e7ad275c53ce390835a4f25ce8492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\54abdcbf2985a15200fba28a6dfb5735ab03522a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46b2be2333548aa0edba58ed3762ae646a359238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\a6b9271338d025bdb16d9f4cbcec028c99b501f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_095fba497f751177a8bfcac7edd9f4c0c38b13db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c99d53a41e20896033ea553bbac133b1464e6156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\511d115ca7ee27cd3088263c9ca293c8c02a19bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20042bdb448473990215e8bf222a23cb88a5c492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\7bf60ba73a226d292dac067a276a253bacaa5039\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31d3b475a3a0bacf104e00b8697e97a34c7f8bb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\4cff8d561d2a1b0b4a6c9f5df61d81926918267e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82718aba6908873d6897ddf64486bfa384a78c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\503015d62798e8b9fed3b25ff1a9de739a6f74e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82675046d79c56cf35c1ece44befc67186155a39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\807bacc533fe03d06920d7729fff6533643c198b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a66e807d6ade1997e562f6e3a7751a695652225f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_83662e2c4fdcb6cb3954d66e7b3c22e69b4a36b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\12f888d610638a1f18b0886e125763bd4921caf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_476798cd01ec396e88ff535cf4e1542548c1d87e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\2100afdee7c12dc3aac7b854b77acead6650fbb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebfba90cf4862b9283c2c24e81b6ebc6d219c4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\60916403eb0655ff88365dd2fd19dcd6cfbf4af9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7b23a478dee638465fcac3e871c0b760e8605ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\77ef0dec6458ff5729f6c337a85808fb1ce2ac4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8156652dc706717a7e8850faa331f773ca83d0b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\eb61d5a71d46e4ef0b6a2d2ca04c5d8a8812c7c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8126b29330de59733adb65c79ccbdf7aec6fbf5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\2f3589b7fe0edb8f9aa1e8884b55ea09f0fe3ad6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f30b288d5ad129047900c4f132feb1234a7232f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d351f6b4d564156d2087e05a810cebcb78221b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\c129435c0e37f13fc299f47cd6c380b07870539d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64095c99a6da42586231d84094106396dc1c910c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\e342743e5a1953b7f0ed187b5ee782518647c7f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1996f41e7307cd522db3c6970378df91c1259280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\1d8f9f62a93aad8db22572ca2fa9ee749bf5f995\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a700ab4e695e6199085fbada52208af22c0b3b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db081a910359a596a4c15fae3542ba82df106652">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6def5d05543c84d8ebcad9ec06fb06a3bbfbb83c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\5d25c04ed015f172865906233da2356601ba88e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_447f9c70ce0f07912ea6aea70b4cf623ec20755e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\748f217020210c91db7aaed2a0000ac96745f87c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a07832cf04928845421aac8ded0f12f18fb5ec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\962da9f41b77253bb31c459fb3cb473e2420e224\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cd4b7e0077f95745c73a96fe7b02fe918b546b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\9390f398f2266973790387348faa2bb24399855c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_463d906663bdcc115cfa3c1b97f2794524ff7248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\0710f853f90a5b68c1b7f08c39cc276a73d8e540\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a098b207b7d3da2e1e617c8695248ef405706bea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thinh\.android\build-cache\7bc360c765ae9536889895ba435f34ea943bb22c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\thinh\Downloads\test\androidpizza\androidpizza\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8607af371ace9ba0b0b3c463b2cfc1592648d35\classes.dex" />
+    </item>
+
+</items>
